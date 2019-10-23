@@ -1,8 +1,10 @@
 Appendix  F - Personal observations on the reliability of the Shuttle
+=====================================================================
 
-    by R. P. Feynman 
+_by R. P. Feynman_
 
 Introduction
+------------
 
    It appears that there are enormous differences of opinion as to the
 probability of a failure with loss of vehicle and of human life. The
@@ -49,6 +51,7 @@ certify their gas turbine and rocket engines.  These authors were also
 interviewed informally.
 
 Solid Rockets (SRB)
+-------------------
 
    An estimate of the reliability of solid rockets was made by the range
 safety officer, by studying the experience of all previous rocket
@@ -169,6 +172,7 @@ other constants in the formula, etc., etc. When using a mathematical
 model careful attention must be given to uncertainties in the model.
 
 Liquid Fuel Engine (SSME)
+-------------------------
 
   During the flight of 51-L the three Space Shuttle Main Engines all
 worked perfectly, even, at the last moment, beginning to shut down the
@@ -261,33 +265,33 @@ design, through hard work, many of the problems have apparently been
 solved.
 
    A list of some of the problems follows. Those followed by an
-asterisk (*) are probably solved:
+asterisk (\*) are probably solved:
 
-   1.Turbine blade cracks in high pressure fuel turbopumps (HPFTP). (May have been solved.)
+1.  Turbine blade cracks in high pressure fuel turbopumps (HPFTP). (May have been solved.)
 
-   2.Turbine blade cracks in high pressure oxygen turbopumps (HPOTP).
+2.  Turbine blade cracks in high pressure oxygen turbopumps (HPOTP).
 
-   3.Augmented Spark Igniter (ASI) line rupture.*
+3.  Augmented Spark Igniter (ASI) line rupture.\*
 
-   4.Purge check valve failure.* 
+4.  Purge check valve failure.\* 
 
-   5.ASI chamber erosion.*
+5.  ASI chamber erosion.\*
 
-   6.HPFTP turbine sheet metal cracking.
+6.  HPFTP turbine sheet metal cracking.
 
-   7.HPFTP coolant liner failure.*
+7.  HPFTP coolant liner failure.\*
 
-   8.Main combustion chamber outlet elbow failure.* 
+8.  Main combustion chamber outlet elbow failure.\*
 
-   9.Main combustion chamber inlet elbow weld offset.* 
+9.  Main combustion chamber inlet elbow weld offset.\*
 
-  10.HPOTP subsynchronous whirl.*
+10. HPOTP subsynchronous whirl.\*
 
-  11.Flight acceleration safety cutoff system (partial failure in a redundant system).*
+11. Flight acceleration safety cutoff system (partial failure in a redundant system).\*
 
-  12.Bearing spalling (partially solved).
+12. Bearing spalling (partially solved).
 
-  13.A vibration at 4,000 Hertz making some engines inoperable, etc.
+13. A vibration at 4,000 Hertz making some engines inoperable, etc.
 
    Many of these solved problems are the early difficulties of a new
 design, for 13 of them occurred in the first 125,000 seconds and only
@@ -405,6 +409,7 @@ the Space Shuttle Main Engine that is closely analogous to the
 deterioration seen in the rules for the Solid Rocket Booster.
 
 Avionics
+--------
 
    By "avionics" is meant the computer system on the Orbiter as well
 as its input sensors and output actuators. At first we will restrict
@@ -527,6 +532,7 @@ fire. But they are not designed to fail, and the problem should be
 solved.
 
 Conclusions
+-----------
 
    If a reasonable launch schedule is to be maintained, engineering
 often cannot be done fast enough to keep up with the expectations of
