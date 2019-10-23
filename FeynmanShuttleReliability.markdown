@@ -77,7 +77,7 @@ usage versus engineering judgment." (These quotations are from "Space
 Shuttle Data for Planetary Mission RTG Safety Analysis," Pages 3-1,
 3-1, February 15, 1985, NASA, JSC.) It is true that if the probability
 of failure was as low as 1 in 100,000 it would take an inordinate
-number of tests to determine it ( you would get nothing but a string
+number of tests to determine it (you would get nothing but a string
 of perfect flights from which no precise figure, other than that the
 probability is likely less than the number of such flights in the
 string so far). But, if the real probability is not so small, flights
@@ -304,12 +304,12 @@ three engines, but some accidents would possibly be contained, and
 only affect one engine. The system can abort with only two
 engines. Therefore let us say that the unknown suprises do not, even
 of themselves, permit us to guess that the probability of mission
-failure do to the Space Shuttle Main Engine is less than 1/500. To
+failure due to the Space Shuttle Main Engine is less than 1/500. To
 this we must add the chance of failure from known, but as yet
 unsolved, problems (those without the asterisk in the list
 above). These we discuss below. (Engineers at Rocketdyne, the
 manufacturer, estimate the total probability as 1/10,000. Engineers at
-marshal estimate it as 1/300, while NASA management, to whom these
+Marshal estimate it as 1/300, while NASA management, to whom these
 engineers report, claims it is 1/100,000. An independent engineer
 consulting for NASA thought 1 or 2 per 100 a reasonable estimate.)
 
