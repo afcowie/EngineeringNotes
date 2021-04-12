@@ -1,5 +1,6 @@
 % publish v2
-preamble.latex
+preamble.tex
 % begin
-FeynmanShuttleReliability.markdown
+FeynmanShuttleReliability.md
+ChemicalSafetyBoard.md
 % end
