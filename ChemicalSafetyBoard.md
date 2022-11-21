@@ -26,10 +26,10 @@ If you're intrigued you can continue with:
 "Fire from Ice" about disused piping resulting in an accident
 https://www.youtube.com/watch?v=3QKpVnTqngc
 
-and then on to the hour long video that a colleague first linked me to was
-"Anatomy of a Disaster" about the 2005 Texas City oil refinery fire, which is
-an epic production:
-https://www.youtube.com/watch?v=XuJtdQOU_Z4
+and then on to the hour long video "Anatomy of a Disaster" about the 2005
+Texas City oil refinery fire, which is an epic production. It might seem a bit
+dated visually but it really set the stage for the significant outreach role
+that CSB would come to play: https://www.youtube.com/watch?v=XuJtdQOU_Z4
 
 The whole collection has excerpts, promotional messages, and so on, so it
 takes a bit to filter out the incident videos, but the good ones tend to have
